@@ -1,0 +1,31 @@
+
+[92m[+]The ip:82.122.101.253,port:82,username:admin
+[92m[+]The ip:82.122.101.253,port:82,password:537716
+
+[92m[+]The ip:91.143.194.90,port:83,username:admin
+[92m[+]The ip:91.143.194.90,port:83,password:fonta1958
+
+[92m[+]The ip:82.53.124.107,port:81,username:admin
+[92m[+]The ip:82.53.124.107,port:81,password:admin
+
+[92m[+]The ip:223.62.57.218,port:8000,username:admin
+[92m[+]The ip:223.62.57.218,port:8000,password:ChinaNet
+
+[92m[+]The ip:88.178.210.10,port:8080,username:admin
+[92m[+]The ip:88.178.210.10,port:8080,password:0241884959
+
+[92m[+]The ip:95.18.183.176,port:81,username:admin
+[92m[+]The ip:95.18.183.176,port:81,password:elena4me
+
+[92m[+]The ip:93.195.114.231,port:84,username:admin
+[92m[+]The ip:93.195.114.231,port:84,password:tornset99
+
+[92m[+]The ip:1.2.251.20,port:81,username:admin
+[92m[+]The ip:1.2.251.20,port:81,password:888888
+
+[92m[+]The ip:91.178.233.112,port:81,username:admin
+[92m[+]The ip:91.178.233.112,port:81,password:BenAMU15511
+
+[92m[+]The ip:93.159.243.164,port:81,username:admin
+[92m[+]The ip:93.159.243.164,port:81,password:323oko79
+
